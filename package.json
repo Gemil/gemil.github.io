@@ -2,7 +2,8 @@
   "name": "settler4-script-api",
   "version": "1.0.0",
   "dependencies": {
-    "@redocly/openapi-cli": "^1.0.0-beta.87"
+    "@redocly/openapi-cli": "^1.0.0-beta.87",
+    "redoc": "^2.0.0-rc.65"
   },
   "private": true,
   "scripts": {
